@@ -1,0 +1,12 @@
+
+.placeholder1::-moz-placeholder{
+    color: red;
+
+}
+.placeholder1::-webkit-input-placeholder{
+    color: red;
+
+}
+.placeholder1:-ms-input-placeholder {
+    color: red;
+}
